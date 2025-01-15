@@ -1,0 +1,14 @@
+C:\Coding\C#\OldPhonePad\bin\Debug\net9.0\OldPhonePad.exe
+C:\Coding\C#\OldPhonePad\bin\Debug\net9.0\OldPhonePad.deps.json
+C:\Coding\C#\OldPhonePad\bin\Debug\net9.0\OldPhonePad.runtimeconfig.json
+C:\Coding\C#\OldPhonePad\bin\Debug\net9.0\OldPhonePad.dll
+C:\Coding\C#\OldPhonePad\bin\Debug\net9.0\OldPhonePad.pdb
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.AssemblyInfoInputs.cache
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.AssemblyInfo.cs
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.csproj.CoreCompileInputs.cache
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.dll
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\refint\OldPhonePad.dll
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.pdb
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\OldPhonePad.genruntimeconfig.cache
+C:\Coding\C#\OldPhonePad\obj\Debug\net9.0\ref\OldPhonePad.dll
